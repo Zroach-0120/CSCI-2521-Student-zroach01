@@ -1,0 +1,18 @@
+﻿  CatsAndCougars.cpp
+  Engine.cpp
+C:\Users\zacha\Downloads\Exercise3\Exercise3\Exercise3\Utility.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Engine.cpp')
+  
+  Game.cpp
+C:\Users\zacha\Downloads\Exercise3\Exercise3\Exercise3\Utility.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Game.cpp')
+  
+  Instructions.cpp
+  Utility.cpp
+C:\Users\zacha\Downloads\Exercise3\Exercise3\Exercise3\Utility.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Utility.cpp')
+  
+  Validator.cpp
+  WordGenerator.cpp
+  Generating Code...
+  Exercise3.vcxproj -> C:\Users\zacha\Downloads\Exercise3\Exercise3\x64\Debug\Exercise3.exe
